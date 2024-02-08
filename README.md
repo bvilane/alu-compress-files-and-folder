@@ -11,7 +11,7 @@ This Python program allows users to compress files and folders to various compre
 5. Run the program by executing the following command:
 
 ```
-python compressor.py
+python compression_program.py
 ```
 
 6. Follow the prompts to select the folder to compress and choose the compression type.
