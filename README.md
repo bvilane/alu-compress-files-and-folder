@@ -5,9 +5,9 @@ This Python program allows users to compress files and folders to various compre
 ## How to Run
 
 1. Ensure you have Python installed on your system.
-2. Save the `compressor.py` file to your desired directory.
+2. Save the `compression_program.py` file to your desired directory.
 3. Open a terminal or command prompt.
-4. Navigate to the directory where `compressor.py` is saved.
+4. Navigate to the directory where `compression_program.py` is saved.
 5. Run the program by executing the following command:
 
 ```
