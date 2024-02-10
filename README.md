@@ -20,3 +20,4 @@ python compression_program.py
 ## Contributors
 
 - Bavukile Vilane (<b.vilane@alustudent.com>)
+- Jean Chrisostome Dufitumukiza (<j.dufitumuk@alustudent.com>)
